@@ -1,0 +1,1 @@
+# nuxt-open-graph-demo
